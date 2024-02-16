@@ -6,10 +6,10 @@ The project is focused on the creation of a fraud detection system where my maj
 Business Advantage: 
 By attaining this goal, we hope to equip any company with a powerful weapon for mitigating financial losses caused by fraudulent actions. Furthermore, by providing a safe and dependable credit card service, we will increase client confidence and loyalty.
 
-** Implications: **
+**Implications:**
  The effective implementation of this project has far-reaching consequences, including lower financial risks, compliance with industry standards, and improved reputation. It will enable any company to prevent credit card theft more effectively and build trust in our services.
 
-** Data Overview**
+**Data Overview**
  
  1. Credit card transactions performed by European cardholders in September 2013 are included in the dataset.
  2. Transactions totaled 284,807 entries over a two-day period, out of which 492(0.172%) are fraud.
